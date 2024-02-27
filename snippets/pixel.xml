@@ -4,7 +4,6 @@
   <remove-project path="hardware/google/pixel-sepolicy" />
 
   <!-- GS101/GS201 -->
-  <project path="device/google/raviole" name="RisingOSS-devices/android_device_google_raviole" remote="github" groups="device,slider,pdk-gs-arm" revision="fourteen" />
   <project path="device/google/gs-common" name="device/google/gs-common" groups="device,slider,bluejay,pdk-gs-arm" remote="aosp" />
   <project path="hardware/google/pixel-sepolicy" name="minaripenguin/android_hardware_google_pixel-sepolicy" groups="generic_fs,pixel" remote="github" revision="fourteen" />
   
